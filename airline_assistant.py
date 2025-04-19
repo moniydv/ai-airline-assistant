@@ -13,7 +13,8 @@ class FlightDatabase:
             "london": {"economy": 799, "business": 2399, "first": 4999},
             "paris": {"economy": 899, "business": 2699, "first": 5399},
             "tokyo": {"economy": 1400, "business": 4200, "first": 8400},
-            "berlin": {"economy": 499, "business": 1499, "first": 2999}
+            "berlin": {"economy": 499, "business": 1499, "first": 2999},
+            "india": {"ec":500}
         }
         self.seat_availability = self._initialize_seats()
         
